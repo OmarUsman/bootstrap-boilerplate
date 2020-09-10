@@ -1,0 +1,8 @@
+{
+  "name": "Template",
+  "short_name": "Template",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A bootstrap 5 starter template with seo tags."
+}
