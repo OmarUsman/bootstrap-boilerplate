@@ -7,11 +7,9 @@
 
   This Bootstrap boilerplate **comes with**:
 	  
- - [Bootstrap](https://github.com/twbs/bootstrap)
- - [jQuery](https://github.com/jquery/jquery)
- - [Bootstrap Better Nav](https://github.com/bootstrapstudio/bootstrap-better-nav)
- - [Popper.js](https://github.com/popperjs/popper-core)
- - [FontAwesome](https://github.com/FortAwesome/Font-Awesome)
+ - [Bootstrap](https://github.com/twbs/bootstrap) (Always updated to the latest stable release but in this case its the v5 alpha)
+ - [Popper.js](https://github.com/popperjs/popper-core) (Also always latest version)
+ - [Feather Icons](https://github.com/feathericons/feather)
 
 We also include some **important folders** you might need while developing such as:
 
