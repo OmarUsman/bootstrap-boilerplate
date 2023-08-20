@@ -20,8 +20,6 @@ We also include some **important folders** you might need while developing such 
 
 We also use **SASS** to make CSS 100x easier but using it is your choice.
 
-If you have any suggestions please feel free to email me at: theomarusman@gmail.com **🙃**
-
-If you like my work please donate to my PayPal to keep me going at: theomarusman@gmail.com.
+If you have any suggestions please feel free to send a merge request or create an issue :)
 
   
